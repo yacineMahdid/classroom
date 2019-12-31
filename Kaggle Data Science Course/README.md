@@ -4,7 +4,7 @@
 ## Pre course
 It is a 12 part course that is focused on python and sql, seems nice. Here are the topics:
 - Python ✔️
-- Intro to Machine Learning
+- Intro to Machine Learning ✔️
 - Intermediate Machine Learning
 - Data Visualization
 - Pandas
