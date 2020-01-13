@@ -6,7 +6,10 @@ This is an introductory course on Coursera about the AWS platform. It's about th
 - Week 2: Networking and Storage on AWS ✔️
 - Week 3: Databases on AWS ✔️
 - Week 4: Monitoring and Scaling ✔️
-- Week 5: Security and Costs
+- Week 5: Security and Costs ✔️
 
 # My though
 - It's great, but not in-depth at all. It's basically a walkthrough of the main flagship product of AWS. At times it feels like an infomercial.
+
+# Next Steps
+- There are more course at https://www.aws.training/ which we should dive in as soon as we make a viable prototype
