@@ -3,3 +3,4 @@
 
 # Chapter 1: Getting Django Set up Using a Functional Test
 - We should always start to code with a test (it's like kungfu it requires a discipline)
+- We should furthermore start with a FAILING test and make it work.
