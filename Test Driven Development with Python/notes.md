@@ -29,3 +29,6 @@
 # Chapter 4: What Are We Doing with All These Tests? (And, Refactoring)
 - Refactoring is super important and Django test client is a good tool to use for making the tests more concise. Should take a deeper look at it at some point.
 - Should start new project not directly with a API, but instead follow the gentle refactoring we have been doing at GRAD4. This will allow us to move a bit faster when starting new project with Django.
+
+# Chapter 5: Saving User Input: Testing the Database
+- The point of TDD is to allow you to do one thing at a time, when you need to. At any given moment only do what is necessary to get the functional tests one step further.
