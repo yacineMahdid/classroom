@@ -32,3 +32,9 @@
 
 # Chapter 5: Saving User Input: Testing the Database
 - The point of TDD is to allow you to do one thing at a time, when you need to. At any given moment only do what is necessary to get the functional tests one step further.
+- Just learned about f string in python where you can use them to get the same behavior as a sprintf in C.
+- Helper functions in the tests classes should be used to reduce the complexity just like in non-test code.
+- Similarly if a unit test is getting longer and longer, it should be broken down into sub component to test
+- Should keep the test clean and descriptive so that they are easy to debug / maintains
+
+# Chapter 6: Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps
