@@ -25,3 +25,7 @@
 - Now we can rerun our functional tests and see if they pass, or get a little further. That may prompt us to write some new unit tests, and some new code, and so on.
 
 - The more nervous we are about getting our code right, the smaller and more minimal we make each code change—​the idea is to be absolutely sure that each bit of code is justified by a test.
+
+# Chapter 4: What Are We Doing with All These Tests? (And, Refactoring)
+- Refactoring is super important and Django test client is a good tool to use for making the tests more concise. Should take a deeper look at it at some point.
+- Should start new project not directly with a API, but instead follow the gentle refactoring we have been doing at GRAD4. This will allow us to move a bit faster when starting new project with Django.
