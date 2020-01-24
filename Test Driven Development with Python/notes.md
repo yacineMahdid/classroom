@@ -38,3 +38,8 @@
 - Should keep the test clean and descriptive so that they are easy to debug / maintains
 
 # Chapter 6: Improving Functional Tests: Ensuring Isolation and Removing Voodoo Sleeps
+- Django LiveServerTest is support important to do the functional tests
+- Different tests shouldn’t affect one another. This means we need to reset any permanent state at the end of each test. Django’s test runner helps us do this by creating a test database, which it wipes clean in between each test.
+- Selenium implicit wait seems to suck, using polling is a bit better
+
+# Chapter 7: Working Incrementally
