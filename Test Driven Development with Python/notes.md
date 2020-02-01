@@ -43,3 +43,6 @@
 - Selenium implicit wait seems to suck, using polling is a bit better
 
 # Chapter 7: Working Incrementally
+- TDD is very against big design up front (MVP)
+- YAGNI! You Ain't Gonna Need It!
+- in a test having one '#' means that it's a user story and having '##' means that it's a metacomment
