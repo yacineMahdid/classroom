@@ -46,3 +46,5 @@
 - TDD is very against big design up front (MVP)
 - YAGNI! You Ain't Gonna Need It!
 - in a test having one '#' means that it's a user story and having '##' means that it's a metacomment
+- TDD makes us realize how much things can mess up, because usually as soon as we do some amount of change we have a bunch of tests firing up.
+- Red/Green/Refactor should be printed out somewhere in the office
