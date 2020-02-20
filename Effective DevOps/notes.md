@@ -25,3 +25,6 @@ In this chapter the authors discuss some key terminology to understand what spec
 - Postmortem
 - Blamelessness
 - Organizational Learning
+
+# Chapter 5: Devops Misconceptions and Anti-Patterns
+This first part of the chapter is like a Q&A but with wrong question from someone who doesn't understand Devops. If I was working with someone that doubt the movement I would make him read this chapter. The second part is stuff that are clearly not devops like Blame Culture and Silos.
