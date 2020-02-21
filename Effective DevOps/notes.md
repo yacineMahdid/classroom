@@ -70,3 +70,24 @@ Nice overview of the type of tools used in DevOps without going in details about
 
 # Chapter 12: Tools: Accelerator of Culture
 This is an overview of how tools are affecting people within an organization and how our decision as manager will affect tools/culture. One important phrase that was stated was that tools affects culture, but won't fix a broken one. **There was a cool case study of DramaFever and Etsy tooling process. Would read again if only for these last case study**.
+
+# Chapter 13: Tools: Misconceptions and Troubleshooting
+Same as for the other pillars, its a nice collection of Q&A.
+
+# Chapter 14: Scaling: Inflection Points
+This chapter is about making the company scale by growing/shrinking the organization during it's lifecycle. This gives tips on how to handle the hiring/firing process, but also how to increase your positive impact using your tools/culture. The best size for a team is 3 to 5 maximum! There was actually studies done on that and 7 is too much. There was a cool case study with governmental organization and Target!
+
+# Chapter 15: Scaling: Misconception & TroubleShooting
+Last Q&A section, good placeto check if there is something wrong with the scaling of a company.
+
+# Chapter 16: Building Bridges with the 4 Pillars of Effective DevOps
+Instead of breaking silos, the idea of effective Devops is to build bridges between isolated island. The emphasis of the movement is on positive outcomes, sharing and empathy. Stories is super important with Effective DevOps.
+
+# Chapter 17: Bridging DevOps Cultures: Learning From Our Stories
+Stories in DevOps are a way to understand explicit/implicit culture. There is a nice sociological/behavioral explanation of what compose a community. There is a emphasis on inter-organizational learning.
+
+# Chapter 18: Briding DevOps CultureL Fostering Human Connections
+The first part of the chapter was a bit disorganized, it was about different cultural events that can take place during an organization lifecycle. The second part was about checking the "Health" of the organization/system/teams/human. That should have been cut out into two chapters.
+
+# Chapter 19-20: Conclusion + References
+Good last step for creating a Devops company + some more infromation for learning about DevOps in more depth.
