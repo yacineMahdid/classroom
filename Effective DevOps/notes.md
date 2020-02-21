@@ -28,3 +28,19 @@ In this chapter the authors discuss some key terminology to understand what spec
 
 # Chapter 5: Devops Misconceptions and Anti-Patterns
 This first part of the chapter is like a Q&A but with wrong question from someone who doesn't understand Devops. If I was working with someone that doubt the movement I would make him read this chapter. The second part is stuff that are clearly not devops like Blame Culture and Silos.
+
+# Chapter 6: Four Pillars of Effective DevOps
+This was a short summary presentation of what the four core point of effective devops are and their definitions:
+- Collaboration
+- Affinity
+- Tools
+- Scaling
+Contrary to popular belief the emphasis is on the people and their interaction more than on the tools.
+
+# Chapter 7: Collaboration : Individuals Working Together
+This was an overview of collaboration in the context of software engineering and all of the parameters that goes with it.
+It also showed how to instill collaboration in a company by promoting the right process and cultivating the right growth mindset. The central idea of DevOps revolve around this growth mindset which is defined as continuous learning.
+Teams are way more important than a single high performing individual.
+This chapter also highlighted how communication is complex and need to be given enough attention (for instance by giving a good though about which channel to communicate something).
+The core quality of effective Devops is empathy and trust, these needs to be present and instilled in all team members.
+
