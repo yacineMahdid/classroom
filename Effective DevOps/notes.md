@@ -44,3 +44,16 @@ Teams are way more important than a single high performing individual.
 This chapter also highlighted how communication is complex and need to be given enough attention (for instance by giving a good though about which channel to communicate something).
 The core quality of effective Devops is empathy and trust, these needs to be present and instilled in all team members.
 
+# Chapter 8: Collaboration: Misconceptions and Troubleshooting
+Companion chapter for the previous one for common problem/misunderstanding that can come around when collaborating. It's a good reference for a manager to read (this and the other Q&A chapter that will follow).
+
+# Chapter 9: Affinity from Individuals to Teams
+This chapter is about how to make peoplework together and how to foster affinity which is a kind of relationship work within/across teams. They show what consideration needs to be taken into account when we want to increase team cohesion wihtout creating silos. All the tricks to increase a team empathy involve being generous in nature in the right way. To foster affinity we need the following:
+- Slack (vacation time + time off)
+- **Explicit values & goals**
+- Physical space for creating affinity
+- Room for collaboration and cooperation
+
+# Chapter 10: Affinity: Misconception & Troublehooting
+Another companion chapter, good to check from time to time.
+
