@@ -57,3 +57,16 @@ This chapter is about how to make peoplework together and how to foster affinity
 # Chapter 10: Affinity: Misconception & Troublehooting
 Another companion chapter, good to check from time to time.
 
+# Chapter 11: Tools: Ecosystem Overview
+Nice overview of the type of tools used in DevOps without going in details about them.
+- Local Development Environment (need to be constant)
+- Version Control
+- Artifact Management (in a repository)
+- Server Installation (on-premise)
+- **Infrastructure Automation (Need to do more of that)**
+- System Provisioning
+- Test + Build Automation
+- **Monitoring (We don't do enough of that)**
+
+# Chapter 12: Tools: Accelerator of Culture
+This is an overview of how tools are affecting people within an organization and how our decision as manager will affect tools/culture. One important phrase that was stated was that tools affects culture, but won't fix a broken one. **There was a cool case study of DramaFever and Etsy tooling process. Would read again if only for these last case study**.
