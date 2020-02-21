@@ -86,7 +86,7 @@ Instead of breaking silos, the idea of effective Devops is to build bridges betw
 # Chapter 17: Bridging DevOps Cultures: Learning From Our Stories
 Stories in DevOps are a way to understand explicit/implicit culture. There is a nice sociological/behavioral explanation of what compose a community. There is a emphasis on inter-organizational learning.
 
-# Chapter 18: Briding DevOps CultureL Fostering Human Connections
+# Chapter 18: Bridging DevOps Cultures:  Fostering Human Connections
 The first part of the chapter was a bit disorganized, it was about different cultural events that can take place during an organization lifecycle. The second part was about checking the "Health" of the organization/system/teams/human. That should have been cut out into two chapters.
 
 # Chapter 19-20: Conclusion + References
