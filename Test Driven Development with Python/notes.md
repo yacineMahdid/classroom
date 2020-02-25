@@ -50,3 +50,8 @@
 - Red/Green/Refactor should be printed out somewhere in the office
 - Working from vanilla django with super ugly frontend with all the functionalities we need is actually a pretty solid way of getting an MVP, will keep that in mind for the next time we need to have something off the ground fast.
 - we can capture a parameters in the url using <int:id> for instance
+- When we want to create something new we don't put a trailing / at the end of the url for instance /list/new
+- f string are quite usueful, they are like sprintf in C
+- Remember that all tests need to start with the keyword test_* in django
+
+* At Testing the Response Context Objects Directly Now
