@@ -48,3 +48,5 @@
 - in a test having one '#' means that it's a user story and having '##' means that it's a metacomment
 - TDD makes us realize how much things can mess up, because usually as soon as we do some amount of change we have a bunch of tests firing up.
 - Red/Green/Refactor should be printed out somewhere in the office
+- Working from vanilla django with super ugly frontend with all the functionalities we need is actually a pretty solid way of getting an MVP, will keep that in mind for the next time we need to have something off the ground fast.
+- we can capture a parameters in the url using <int:id> for instance
