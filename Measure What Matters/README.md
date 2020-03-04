@@ -31,3 +31,27 @@ This chapter also shows how to coordinate a large company like intuit during tra
 # Superpower #3: Track for Accountability
 This showcase theoreticaly how having OKR make people more accountable for what they are doing by having objectives that everyone aggree one before. If something happens along the way and something is dropped there are no hardfeeling, just explanation
 that needs to be given. Great because it remove subjectivity.
+
+# Track: The Gates Foundation Story
+This chapter was great since we already know that Bill is a potent businessman. It was cool to see how having OKR made it possible to keep track of difficult problem as the org was making headway into ambiguous problem. Tracking is definetly something we should be doing more, but not in a intrusive way, more in following company objectives and making sure we know which are on-track.
+
+# Superpower #4: Stretch for Amazing
+This last 'power' of OKR shows how having goals that are aspirational would allow in theory to make big leap in the company/personal development. This one thing we should definetly add to our OKRs.
+
+# Stretch: The Google Chrome Story and The Youtube Story
+This was a nice piece by Sundar Pichai who explained how Google Chrome using stretch OKR got such a foothold into the browser market. That was sincerly eye opening to see a engineer have so much self-discipline and achieve consistent incredbile result. The following chapter about Youtube was also similarly eye opening. This is also a chapter that emphasis tracking as they could only achieve that stretch goal with youtube by having continuously tracking what was important.
+
+# Continous Performance Management: OKRs and CFRs
+This chapter was nice, however I've never worked in a company that was doing end of the year review so I cannot relate. In my mind making touch-up weekly is the way to go, there is no rationale for doing it only once a year except if manager are lazy. The idea is to always understand how your team is going and what you can do/change to help them out.
+
+# Ditching Annual Performance Reviews: The Adobe Story
+This is an exemple of a huge corp ditching annual review and seeing super improvement. Can't relate really.
+
+# Baking Better Every Day: The Zume Pizza Story
+This is the chapter I hated. For me the Zume company makes absolutely no sense. Using super high technology to bake pizza (even if its healthier pizza) makes no sense in a business perspective. It doesn't look lean at all, I don't get how they got funded for such non-sense. They actually even pivoted away from pizza altogether to packaging which makes more sense. wtf
+
+# Culture
+This chapter shows how a good growth (devops) culture is needed for OKR to take holds.
+
+# Culture Change: The Lumeris Story and Bono's ONE Campaign Story
+This chapter highlight how culture sometime needs to be changed before OKR can take a hold. The other chapter with Bono show how OKR can change a culture, it was nice to hear Bono speak about the fact that he was a poor singer. Success is really about setting up goals, tracking them and doing the legwork.
