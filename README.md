@@ -14,6 +14,7 @@ Code in this repo comes mainly from exercices and is free to use.
 - AWS Fundamentals Going Cloud-Native ✔️
 - Kaggle Data Science Course
 - Khan Academy Math
+- Next AI 2020
 
 # Competitions
 - Kaggle Competitions
