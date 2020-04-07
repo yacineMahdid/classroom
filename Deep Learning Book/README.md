@@ -46,7 +46,9 @@ Deep Learning Algorithm Training Rule of Thumbs:
 - Moore-Penrose Pseudoinverse is a way to get somewhat of an inverse even when not possible. Using a pseudo-inverse for solving a linear equation give use the solution with minimal euclidean norm.
 - The Trace Operator : this concept gives us the sum of all the diagonal entries of a matrix. It's useful to play some identities tricks.
 - The Determinant: equal to the product of all eigenvalues of matrix. Absolute value of determinant is a measure of how much multiplication by the matrix expands or contracts space.
-- PCA: Lossy compression of these points. PCA is defined by our choice of decoding function. PCA constraint the decoding matrix D to be orthogonal in g(c) = Dc.
+- PCA: Lossy compression of these points. PCA is defined by our choice of decoding function. PCA constraint the decoding matrix D to be orthogonal in g(c) = Dc and D to have column with unit norm. We can spin this as an optimization problem where we want to have c and x have a small L2 norm (squared). For the matrix D we can do the same but instead of the L2 norm we use the Frobenius norm. **(Should definetely spend a good deal of time going through the derivation)**
+
+This chapter was nice, it was concise but it was really well tied together at the end with PCA!
 ## Chapter 3: Probability and Information Theory
 
 ## Chapter 4: Numerical Computation
