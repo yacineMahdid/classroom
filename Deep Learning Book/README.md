@@ -22,7 +22,8 @@ Deep Learning Algorithm Training Rule of Thumbs:
 2016 size of neural network architecture is similar to a frog.
 
 ## Chapter 2: Linear Algebra
-
+- The Matrix Cookbook might be a good reference on linear algebra to get.
+- Cartesian product of set A and B is all ordered pair (a,b)
 ## Chapter 3: Probability and Information Theory
 
 ## Chapter 4: Numerical Computation
