@@ -24,6 +24,12 @@ Deep Learning Algorithm Training Rule of Thumbs:
 ## Chapter 2: Linear Algebra
 - The Matrix Cookbook might be a good reference on linear algebra to get.
 - Cartesian product of set A and B is all ordered pair (a,b)
+- Element-wise product in a matrix is called the Hadamard product
+- A matrix multiplication is basically a bunch of dot product between row of one matrix with column of another.
+- To solve a linear equation we can use matrix inversion with the concept of a identity matrix. The problem switch from finding the weight to finding an inverse for our matrix of feature. It's a nice theoretical tool, but has limited practical useage.
+- For the inverse of the feature to exist we need to have exactly one solution for every value of the output. We could have none or an infinite amount though.
+- Having redundant column is a problem in the feature matrix as it reduce the dimentionality.
+
 ## Chapter 3: Probability and Information Theory
 
 ## Chapter 4: Numerical Computation
