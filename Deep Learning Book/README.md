@@ -29,7 +29,20 @@ Deep Learning Algorithm Training Rule of Thumbs:
 - To solve a linear equation we can use matrix inversion with the concept of a identity matrix. The problem switch from finding the weight to finding an inverse for our matrix of feature. It's a nice theoretical tool, but has limited practical useage.
 - For the inverse of the feature to exist we need to have exactly one solution for every value of the output. We could have none or an infinite amount though.
 - Having redundant column is a problem in the feature matrix as it reduce the dimentionality.
-
+- Linear dependance means that there is already a linear combination of the vectors that can generate it.
+- Matrix needs to be square to have an inverse.
+- L^n norm is defined as `(Sum(xi)^p)^(1/p)`
+- L^2 is euclidean norm
+- L^1 is mostly used when it is important to discrimintate between elements that are exactly zero and elements that are small but non-zero.
+- L^inf norm (max norm) = absolute value of elment with largest magnitude.
+- Frobenius norm (measure size of a matrix)
+- Diagonal matrix offers cheap computation which is great.
+- two vector are orthogonal to each other if x^T*y = 0. They are at 90 degree of each other. Orthonormal = orthogonal + unit norm.
+- Orthogonal Matrix are square matrix where row are mutually orthonormal and columns are mutually orthonormal.
+- **Eigendecomposition**: decompose matrix into functional properties (i.e. egeinvector and eigenvalues). Eigenvector of square matrix A is a non-zero vector such that mulitplication by A alter only it's scale. The scalar multiplier is the Eigeinvalue. We only look at unit eigenvalue. The eigendecomposition of A is then given by `A = V*diag(lambda)*V^-1` where V is a matrix of the eigenvectors of a and lambda is a diagonal matrix of the eigenvalue.
+- having specific eigenvalues and eigenvector allow us to stretch space in a desired directions if we want to construct a matrix.
+- for the decomposition of real symmetric matrix can be decomposed into using only real-valued eigenvector and eigenvalues.
+- Singular Value Decomposition 
 ## Chapter 3: Probability and Information Theory
 
 ## Chapter 4: Numerical Computation
