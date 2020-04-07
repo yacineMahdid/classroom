@@ -42,7 +42,11 @@ Deep Learning Algorithm Training Rule of Thumbs:
 - **Eigendecomposition**: decompose matrix into functional properties (i.e. egeinvector and eigenvalues). Eigenvector of square matrix A is a non-zero vector such that mulitplication by A alter only it's scale. The scalar multiplier is the Eigeinvalue. We only look at unit eigenvalue. The eigendecomposition of A is then given by `A = V*diag(lambda)*V^-1` where V is a matrix of the eigenvectors of a and lambda is a diagonal matrix of the eigenvalue.
 - having specific eigenvalues and eigenvector allow us to stretch space in a desired directions if we want to construct a matrix.
 - for the decomposition of real symmetric matrix can be decomposed into using only real-valued eigenvector and eigenvalues.
-- Singular Value Decomposition 
+- Singular Value Decomposition : more generally applicable than the eigendecomposition. Every real matrix has a singular value decomposition (even non-square matrix). A = UDV^T where each matrix has a special structure. U, V are orthogonal matrices and D is diagonal. Element in D are singular values, columns of U are left-singular vector and columns of V are right-singular vectors.
+- Moore-Penrose Pseudoinverse is a way to get somewhat of an inverse even when not possible. Using a pseudo-inverse for solving a linear equation give use the solution with minimal euclidean norm.
+- The Trace Operator : this concept gives us the sum of all the diagonal entries of a matrix. It's useful to play some identities tricks.
+- The Determinant: equal to the product of all eigenvalues of matrix. Absolute value of determinant is a measure of how much multiplication by the matrix expands or contracts space.
+- PCA: Lossy compression of these points. PCA is defined by our choice of decoding function. PCA constraint the decoding matrix D to be orthogonal in g(c) = Dc.
 ## Chapter 3: Probability and Information Theory
 
 ## Chapter 4: Numerical Computation
