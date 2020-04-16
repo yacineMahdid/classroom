@@ -50,6 +50,20 @@ Deep Learning Algorithm Training Rule of Thumbs:
 
 This chapter was nice, it was concise but it was really well tied together at the end with PCA!
 ## Chapter 3: Probability and Information Theory
+- probability theory is used both to make ai agent or to analyze ai agent. information theory allow to quantify amount of uncertainty in a probability distribution.
+- in practice it is better to use a simple but uncertain rule than a complex but certain one.
+- there are two kind of probability framework (frequentist and Bayesian), I am very familiar with the first one and not so much with the second one. The second has to do with the degree of belief.
+- nice definition: "Probability theory provides a set of formal rules for determining the
+likelihood of a proposition being true given the likelihood of other propositions."
+- Probability mass function (discrete variables) have three propoerties:
+  - domain need to map all possible states of x
+  - impossible P(x) = 0, always P(x) = 1
+  - if we sum all P(x) we get 1
+- Probability Density function (continous) have three properties:
+  - domain map to all possible states of x
+  - p(x) >= 0 but not necessarly smaller than 1
+  - integral should equal to 1
+
 
 ## Chapter 4: Numerical Computation
 
