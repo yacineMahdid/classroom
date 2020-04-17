@@ -66,8 +66,7 @@ likelihood of a proposition being true given the likelihood of other proposition
 - Chain rule of probability = joint probability distribution can be decomposed into conditional distribution over only one variable.
 - We have expected values and vairance for probability distributions
 
-Useful common probability distributions:
-- Bernoulli
+Useful common probability distributions:(at page 60)
 ## Chapter 4: Numerical Computation
 
 ## Chapter 5: Machine Learning Basics
