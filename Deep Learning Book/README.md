@@ -63,8 +63,11 @@ likelihood of a proposition being true given the likelihood of other proposition
   - domain map to all possible states of x
   - p(x) >= 0 but not necessarly smaller than 1
   - integral should equal to 1
+- Chain rule of probability = joint probability distribution can be decomposed into conditional distribution over only one variable.
+- We have expected values and vairance for probability distributions
 
-
+Useful common probability distributions:
+- Bernoulli
 ## Chapter 4: Numerical Computation
 
 ## Chapter 5: Machine Learning Basics
