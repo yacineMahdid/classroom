@@ -66,7 +66,27 @@ likelihood of a proposition being true given the likelihood of other proposition
 - Chain rule of probability = joint probability distribution can be decomposed into conditional distribution over only one variable.
 - We have expected values and vairance for probability distributions
 
-Useful common probability distributions:(at page 60)
+Useful common probability distributions:
+- Bernoulli
+- Multinoulli
+- Gaussian (good default when not knowing distribution)
+- Multivariate normal distribution (for the two above we can have a precision parameter B to more efficiently parametrize the distribution)
+- Exponential Distribution
+- Laplace distribution
+- Dirac Delta function (for empirical distribution)
+- Can do mixtures of distribution by sampling with a multinoulli which distribution to generate the sample. Gaussian mixture model are a type of mixtures of distribution (important).
+
+Useful Properties of common functions:
+- Logistic sigmoid
+- softplus
+
+Jacobian matrix seems to be an important concept in machine learning
+learning that an unlikely event has occured is more informative than learning that a likely event has occured.
+
+Shannon Entropy is the amount of uncertainty in an entire probability distribution.
+The Kullback-Leibler divergence can measure how different two distribution are for a single variable x. Related to KL is cross entropy.
+
+Factorization of a probability distribution with a graph we call that a structured probabilistic model or a graphical model.
 ## Chapter 4: Numerical Computation
 
 ## Chapter 5: Machine Learning Basics
