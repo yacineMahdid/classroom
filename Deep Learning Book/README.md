@@ -88,6 +88,21 @@ The Kullback-Leibler divergence can measure how different two distribution are f
 
 Factorization of a probability distribution with a graph we call that a structured probabilistic model or a graphical model.
 ## Chapter 4: Numerical Computation
+In a computer there are approximation of real number because we have a physical computer.\
+- Directional derivative in dircetion u (unit vector) is the slope of the function f in direction u.
+- The gradient points directly uphill and the negative gradient point directly downhill.
+- Jacobian matrix is a matrix of all partial derivatives.
+- second derivative are derivative of derivative, it measures curvature. It's like more info on the function environment around a point.
+- Hessian matrix is like the Jacobian but for second derivatives. It's the Jacobian for the gradient lol. eigeinvector of H can be used to improve the gradient descent.
+- We can do a second derivative test for the local minima/maxima
+- optimization algorithm that use only the gradient are called first-order optimization algorithms. Those that are using the information in the Hessian matrix (like the Newton method) are called second-order optimization algorithms.
+- Lipschitz continous is used to gain guarantees when using deep learning model.
+- importance of convex optimization is not that great in deep learning.
+- Karush-Kuhn-Tucker approach for contrasined optimization generate a new function called the generalized Langrangian.
+- Condition for a point to be optimal (Karush-Kuhn-Tucker conditions):
+  - gradient of the generalized Lagrangian is zero
+  - all contraints on both x and KKT multipliers are satisfied
+  - inequality constraints exhibit complementary slackness.
 
 ## Chapter 5: Machine Learning Basics
 Most deep learning algorithms are based on SGD.
