@@ -9,12 +9,16 @@ Code in this repo comes mainly from exercices and is free to use.
 - The Deep Learning Book
 - Practical Statistics for Data Scientists
 
-
 # Courses
 - AWS Fundamentals Going Cloud-Native ✔️
 - Kaggle Data Science Course
 - Khan Academy Math
 - Next AI 2020
 
+# Tutorial
+- Docker Curiculum
+
 # Competitions
 - Kaggle Competitions
+
+# Practice
