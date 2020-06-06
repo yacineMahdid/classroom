@@ -156,4 +156,14 @@ Maximum Likelihood Estimation: minimizing the dissimilarity between the empirica
 
 Cross entropy is any loss consisting of a negative log-likelihood between empirical distribution defined by the model. Mean squared error is the cross entropy between the empirical distribution and a gausian model.
 
-chapter 5 page 130
+Maximum likelihood is often considered the preferred estimator to use for machine learning.
+
+Bayesian statistics: we have a prior probability distribution of the parameter we want to fit. We have a distribution of likely value for a parameter. We can then use the value along with their probability density to output a number. We integrate over the probability in order to have a value. Bayesian methods typically generalize much better when limited training data is available but typically suffer from high computational cost.
+
+We can go from distribution to point estimate by choosing the maximum a posteriori (MAP) point estimate.
+
+Logistic Regression is a classification algorithm where we learn linear equation and we squash the output between 0 and 1.
+
+in SVM, the kernel-based function is exactly equivalent to preprocessing the data by applying the kernel to all inputs, then learning a linear model in the new transformed space. Kernel trick render high dimensional feature space tractable.
+
+Gaussian kernel is the one most commonly used (RBF; Radial Basis Function).
