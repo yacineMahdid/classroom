@@ -154,4 +154,6 @@ Bias and variance tradeoff is tightly linked to capacity, underfitting and overf
 
 Maximum Likelihood Estimation: minimizing the dissimilarity between the empirical distribution that is generating the data defined by the training set and the model distribution. The degree of dissimilarity between the two is measured by the KL divergence.
 
-Cross entropy is any loss consisting of a negative log-likelihood between empirical distribution defined by the model. Mean squared error is the cross entropy between the empirical distribution and a gausiance model.
+Cross entropy is any loss consisting of a negative log-likelihood between empirical distribution defined by the model. Mean squared error is the cross entropy between the empirical distribution and a gausian model.
+
+chapter 5 page 130
