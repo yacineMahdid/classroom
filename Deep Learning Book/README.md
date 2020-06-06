@@ -145,3 +145,13 @@ Hypothesis space is the space of all functions that the classifier can choose fr
 
 In machine
 learning experiments, it is common to say that algorithm A is better than algorithm B if the upper bound of the 95 percent conﬁdence interval for the error of algorithm A is less than the lower bound of the 95 percent conﬁdence interval for the error of algorithm B.
+
+Bias and variance measure two different source of error in an estimator. Bias measures the expected deviation from the true value of the function or parameter. Variance provides a measure of the deviation from the expected estimator value that any particular sampling of the data is likely to cause.
+
+Cross validation is highly successful on many real-world tasks.
+
+Bias and variance tradeoff is tightly linked to capacity, underfitting and overffiting. Increase capacity tends to increase variance and decrease bias.
+
+Maximum Likelihood Estimation: minimizing the dissimilarity between the empirical distribution that is generating the data defined by the training set and the model distribution. The degree of dissimilarity between the two is measured by the KL divergence.
+
+Cross entropy is any loss consisting of a negative log-likelihood between empirical distribution defined by the model. Mean squared error is the cross entropy between the empirical distribution and a gausiance model.
