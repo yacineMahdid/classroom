@@ -167,3 +167,17 @@ Logistic Regression is a classification algorithm where we learn linear equation
 in SVM, the kernel-based function is exactly equivalent to preprocessing the data by applying the kernel to all inputs, then learning a linear model in the new transformed space. Kernel trick render high dimensional feature space tractable.
 
 Gaussian kernel is the one most commonly used (RBF; Radial Basis Function).
+
+We can enhance many learning algorithm with the kernel trick (we call them the kernel machines)
+
+K-nearest neighbors can achieve high accuracy given a large training set. Decision tree also are good when computational ressources are constrained.
+
+unsupervised learning refers to most attempts to extract
+information from a distribution that do not require human labor to annotate.
+
+The notion of representation is one of the central themes of deep learning and
+therefore one of the central themes in this book. Nice so I'm on the right track to distangle the high dimensional space we have in our dataset!
+
+About PCA: Thus we can use PCA as a simple and eﬀective dimensionality reduction method that preserves as much of the information in the data as possible (again, as measured by least-squares reconstruction error).
+
+Page 145
