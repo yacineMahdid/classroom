@@ -201,3 +201,10 @@ Manifold learning algorithms surmount this obstacle by assuming that most of R n
 Most of what exist in the worl in terms of image/text/sound ect are concentrated towards a small fraction of what is possible.
 
 # Part 2: Modern Practical Deep Networks
+Most tasks that consist of mapping an input
+vector to an output vector, and that are easy for a person to do rapidly, can be
+accomplished via deep learning, given suﬃciently large models and suﬃciently
+large datasets of labeled training examples. Other tasks, that cannot be described
+as associating one vector to another, or that are diﬃcult enough that a person
+would require time to think and reﬂect in order to accomplish the task, remain
+beyond the scope of deep learning for now.
