@@ -212,3 +212,4 @@ beyond the scope of deep learning for now.
 ## Chapter 6: Deep Feedforward Networks
 - RNN Are used a lot for natural language applications.
 - It is best to think of feedforward networks as function approximation machines that are designed to achieve statistical generalization, occasionally drawing some insights from what we know about the brain, rather than as models of brain function.
+page 167
