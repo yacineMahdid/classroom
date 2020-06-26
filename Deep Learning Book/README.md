@@ -208,3 +208,7 @@ large datasets of labeled training examples. Other tasks, that cannot be describ
 as associating one vector to another, or that are diﬃcult enough that a person
 would require time to think and reﬂect in order to accomplish the task, remain
 beyond the scope of deep learning for now.
+
+## Chapter 6: Deep Feedforward Networks
+- RNN Are used a lot for natural language applications.
+- It is best to think of feedforward networks as function approximation machines that are designed to achieve statistical generalization, occasionally drawing some insights from what we know about the brain, rather than as models of brain function.
